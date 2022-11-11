@@ -21,6 +21,8 @@
 	3）git push -u origin master         		--》 提交到远程仓库
 
 
+
+
 常用操作：
 
 git add 文件名    		 将内容添加到缓存区
